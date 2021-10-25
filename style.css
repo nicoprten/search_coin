@@ -25,6 +25,7 @@ h1{
     align-items: center;
     flex-wrap: wrap;
     justify-content: center;
+    gap: 10px;
 }
 .container__intro h2{
     width: 100%;
